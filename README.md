@@ -33,15 +33,10 @@ I work at the intersection of **computational social science** and **security st
 ## 🧠 Method: Social Theory × Multi-Agent Systems
 
 I model social phenomena using **explicit sociological theory** implemented through
-**LLM-powered multi-agent systems** — not black-box prediction:
-
-| Theoretical foundation | Operationalization |
-|---|---|
-| **Goffman** — dramaturgical analysis | Identity performance, front/back stage behavior in digital arenas |
-| **Weber** — rationality & legitimacy | Actor decision-making under different rationality regimes |
-| **Merton** — anomie & strain theory | Deviance pathways, adaptation strategies |
-| **Bourdieu** — field & habitus | Position-taking within social fields, capital accumulation |
-| **Social Network Theory** — Granovetter, Burt | Weak ties, structural holes, brokerage and gatekeeping |
+**LLM-powered multi-agent systems** — not black-box prediction. The framework draws
+on **Goffman** (identity performance), **Weber** (rationality regimes), **Merton**
+(anomie and adaptation), **Bourdieu** (field, habitus, capital), and **social
+network theory** (Granovetter, Burt — weak ties, structural holes, brokerage).
 
 Each agent carries a **theoretical role** (theory-driven behavioral rules) and the
 simulation is **calibrated against observed data** and validated with human
