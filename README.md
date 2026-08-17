@@ -1,14 +1,14 @@
 <div align="center">
 
-# Ciao, sono Jacopo Peracchio 👋
+# Hi, I'm Jacopo Peracchio 👋
 
-**Open Source Analyst · Computational Social Science · OSINT & Data Pipelines**
+**Open Source Analyst · Computational Social Science · Hybrid Threats & Organized Crime**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Open+Source+Analyst;Computational+Social+Science;OSINT+%26+Data+Pipelines;LLM+Multi-Agent+Systems;Social+Network+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Open+Source+Analyst;Computational+Social+Science;Hybrid+Threats+%26+Organized+Crime;Agent-Based+Simulation+%26+Social+Theory;OSINT+%26+Data+Pipelines)](https://git.io/typing-svg)
 
-Costruisco pipeline di raccolta e analisi dati su scala — elettorale, sociale, open-source
-intelligence — con standard da ricerca: riproducibilità, audit trail, documentazione.
-Interesse: minacce ibride, disinformazione, reti di influenza.
+I build **data pipelines and computational models** for the social sciences —
+from electoral data to open-source intelligence — with research-grade standards:
+**reproducibility, audit trails, documentation**.
 
 [![Profile views](https://komarev.com/ghpvc/?username=jack89-ML&style=flat-square&color=00E5FF)](https://github.com/jack89-ML)
 [![GitHub followers](https://img.shields.io/github/followers/jack89-ML?style=flat-square&color=blueviolet&label=followers)](https://github.com/jack89-ML)
@@ -19,18 +19,45 @@ Interesse: minacce ibride, disinformazione, reti di influenza.
 
 ---
 
-## 📈 Attività
+## 🔭 Research Interests
 
-<div align="center">
+> **Hybrid threats · Organized crime · International money laundering · Terrorism & armed groups**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jack89-ML&theme=radical&hide_border=true)](https://github.com/jack89-ML)
+I work at the intersection of **computational social science** and **security studies**:
 
-</div>
+- **Hybrid threats & disinformation** — influence operations, coordinated inauthentic behavior, astroturfing
+- **Organized crime & illicit networks** — social network analysis of criminal ecosystems, money laundering typologies
+- **Terrorism & armed groups** — mobilization dynamics, radicalization pathways, network structures
+- **Transnational communities** — diaspora networks as both risk and resilience factors
 
-> Nota: le GitHub stats card e i trophy (servizi Vercel esterni) risultano
-> temporaneamente sospesi — riattivati appena i servizi tornano online.
+## 🧠 Method: Social Theory × Multi-Agent Systems
 
----
+I model social phenomena using **explicit sociological theory** implemented through
+**LLM-powered multi-agent systems** — not black-box prediction:
+
+| Theoretical foundation | Operationalization |
+|---|---|
+| **Goffman** — dramaturgical analysis | Identity performance, front/back stage behavior in digital arenas |
+| **Weber** — rationality & legitimacy | Actor decision-making under different rationality regimes |
+| **Merton** — anomie & strain theory | Deviance pathways, adaptation strategies |
+| **Bourdieu** — field & habitus | Position-taking within social fields, capital accumulation |
+| **Social Network Theory** — Granovetter, Burt | Weak ties, structural holes, brokerage and gatekeeping |
+
+Each agent carries a **theoretical role** (theory-driven behavioral rules) and the
+simulation is **calibrated against observed data** and validated with human
+expertise — design principles from my research proposal for a multi-agent
+simulation of influence operations.
+
+## 🛠️ What I Do
+
+- **Data engineering for social science** — extraction, cleaning, normalization and
+  analysis of public datasets (Italian electoral history, demographics, EU open data)
+- **Social Network Analysis** — academic co-authorship, influence networks, community
+  detection (networkx, Gephi, pyvis)
+- **OSINT & text analysis** — automated pipelines, compliant web collection, content
+  and sentiment analysis
+- **LLM multi-agent systems** — agents for research, monitoring and analysis, grounded
+  in sociological models
 
 ## 🧰 Tech Stack
 
@@ -40,43 +67,59 @@ Interesse: minacce ibride, disinformazione, reti di influenza.
 
 </div>
 
+## 📈 Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jack89-ML&theme=radical&hide_border=true)](https://github.com/jack89-ML)
+
+</div>
+
+> **Note:** the GitHub stats cards and trophy widgets (external Vercel services)
+> are temporarily suspended — they will be restored as soon as the services
+> come back online.
+
 ---
 
-## 🔭 Cosa faccio
+## 📂 Featured Projects
 
-- **Data engineering per scienze sociali**: estrazione, pulizia, normalizzazione e analisi
-  di dataset pubblici (storico elettorale italiano, demografia, open data UE)
-- **Social Network Analysis**: co-autorità accademica, reti di influenza, analisi di
-  comunità (networkx, Gephi, pyvis)
-- **OSINT & text analysis**: pipeline automatizzate, web scraping conforme, analisi di
-  contenuti e sentiment
-- **LLM multi-agente**: agenti per ricerca, monitoraggio e analisi
-
-## 📂 Progetti in evidenza
-
-| Progetto | Cosa fa | Stato |
+| Project | What it does | Status |
 |---|---|---|
-| [**TallyHo**](https://github.com/jack89-ML/tallyho) | Serie storica elettorale italiana 1946→oggi, comune per comune, da fonti ministeriali open data. CLI Python, CSV/JSON/XLSX/Parquet, 90+ test, CI, DOI Zenodo | ⭐ principale |
-| [**Arachne-Scholar**](https://github.com/jack89-ML/Arachne-Scholar) | Knowledge graph locale per letteratura accademica via SVO dependency parsing. Gira offline su hardware proprio | attivo |
-| [**hybrid-kg-paper**](https://github.com/jack89-ML/hybrid-kg-paper) | Esperimenti su knowledge graph ibridi (NLP deterministico + LLM) per testo scientifico. Riproducibilità GED 0.0 | ricerca |
+| [**TallyHo**](https://github.com/jack89-ML/tallyho) | Italian electoral time series 1946→today, municipality by municipality, from ministerial open data. Python CLI, CSV/JSON/XLSX/Parquet, 90+ tests, CI, Zenodo DOI | ⭐ main |
+| [**Arachne-Scholar**](https://github.com/jack89-ML/Arachne-Scholar) | Local-first knowledge graph engine for academic literature via SVO dependency parsing. Runs fully offline on your own hardware | active |
+| [**hybrid-kg-paper**](https://github.com/jack89-ML/hybrid-kg-paper) | Experiments on hybrid knowledge graphs (deterministic NLP + LLM) for scientific text. Reproducibility GED 0.0 | research |
 
-## 🎓 Percorso
+## 🎓 Education
 
-- Laurea in Scienze Politiche (Università di Firenze) + Sociologia (Università di Torino)
-  — tesi su Social Network Analysis di reti reali
-- Candidatura PhD in Computational Social Science (Hong Kong / Shenzhen, 2027/28)
-- Piano B: ruoli da analista (intelligence, OSINT, dati) in agenzie pubbliche UE
+- **Università degli Studi di Torino** — Sociology (Master's) — thesis on Social Network
+  Analysis of real-world networks
+- **Università degli Studi di Firenze** — Political Science (Bachelor) — *Cesare Alfieri* School
+- **PhD candidacy** — Computational Social Science (Hong Kong / Shenzhen, intake 2027/28)
 
-## 📫 Contatti
+## 💼 Experience
+
+- **MicroRack Systems** — founder & operator: data pipelines, research products,
+  multi-agent automation for analysis work
+
+## 🌍 Languages
+
+| Language | Level |
+|---|---|
+| 🇮🇹 **Italian** | Native |
+| 🇬🇧 **English** | B2 |
+| 🇪🇸 **Spanish** | B1 |
+| 🇨🇳 **Chinese** | A2 (active/passive) |
+
+## 📫 Contact
 
 - GitHub: [jack89-ML](https://github.com/jack89-ML)
+- LinkedIn: [jacopoperacchio](https://www.linkedin.com/in/jacopoperacchio/)
 - Email: [jperacchio8@gmail.com](mailto:jperacchio8@gmail.com)
-- Lingue: italiano (madrelingua) · inglese · conoscenza attiva/passiva del cinese
 
 ---
 
 <div align="center">
 
-*Progetti con standard da ricerca: riproducibili, documentati, auditabili.*
+*Research-grade standards: reproducible, documented, auditable.*
 
 </div>
