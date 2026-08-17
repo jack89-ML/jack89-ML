@@ -86,10 +86,24 @@ simulation of influence operations.
 
 ## 🎓 Education
 
-- **Università degli Studi di Torino** — Sociology (Master's) — thesis on Social Network
-  Analysis of real-world networks
-- **Università degli Studi di Firenze** — Political Science (Bachelor) — *Cesare Alfieri* School
-- **PhD candidacy** — Computational Social Science (Hong Kong / Shenzhen, intake 2027/28)
+**Università degli Studi di Torino** — *Master's in Sociology and Social Research* · Sep 2023 – Mar 2026
+- **Grade: 110/110 cum laude**
+- Thesis: *"Economic Networks and Illicit Practices in the Prato District: a Sociological
+  Analysis of the Chinese Presence between Mafia Infiltration and Community Self-Regulation"*
+- Skills: organizational skills, information analysis (+3)
+
+**Università degli Studi di Torino** — *Certificate, "Future Scenarios" Lab* · Apr 2025 – Jun 2025
+- Practical lab building frameworks for future-scenario analysis: identifying which
+  factors/events may correlate and show causal links with a phenomenon in its future development
+- Skills: information analysis, risk management (+1)
+
+**Università degli Studi di Torino** — *Certificate, "Algorithms & Society" Lab* · Feb 2025 – Apr 2025
+
+**Università degli Studi di Firenze** — *Bachelor's in Political Science* · Sep 2019 – May 2023
+- **Grade: 103/110**
+- Thesis: *"New Technologies, Old Inequalities: a Critical Analysis of Digital Human Resources"*
+
+**PhD candidacy** — Computational Social Science (Hong Kong / Shenzhen, intake 2027/28)
 
 ## 💼 Experience
 
