@@ -29,9 +29,11 @@ My research operates at the intersection of computational sociology, intelligenc
 
 | Repository | Focus & Architecture | Standards & Ecosystem |
 | :--- | :--- | :--- |
-| **[`eml-forensics`](https://github.com/jack89-ML/eml-forensics)** | Deterministic e-Discovery & digital forensics engine for `.eml` corpora. MIME parsing, SHA-256 chain of custody, CAdES `.p7m` unwrapping, conversation DAG latency/blackout metrics, and orientation-aware OCR. | Python stdlib core, RFC 5322, OpenSSL, POSIX CLI, CI matrix (3.10–3.12) |
-| **[`albo-search`](https://github.com/jack89-ML/albo-search)** | Unified CLI search engine for Italian official professional registries (Lawyers, Accountants, Cassa Forense, Interior Ministry). Headless automation across legacy JSF/PrimeFaces endpoints. | Python stdlib core, XDG Base Directory, POSIX exit codes, 40+ unit tests |
-| **[`cleanrepo`](https://github.com/jack89-ML/cleanrepo)** | Pre-publish OPSEC and anti-leak scanner. Detects cloud credentials, private keys, local paths, private networks, and high Shannon-entropy tokens with native Git staged/history inspection and ROT13 wordlists. | Zero dependencies, Git hook integration, SARIF 2.1.0 output |
+| **[`eml-forensics`](https://github.com/jack89-ML/eml-forensics)** | Deterministic e-Discovery & digital forensics engine for `.eml` corpora. MIME parsing, SHA-256 chain of custody, CAdES `.p7m` unwrapping, conversation DAG latency/blackout metrics, and orientation-aware OCR. | Python stdlib core, RFC 5322, OpenSSL, POSIX CLI, CI matrix (3.10–3.12) · 91 unit tests |
+| **[`albo-search`](https://github.com/jack89-ML/albo-search)** | Unified CLI search engine for Italian official professional registries (Lawyers, Accountants, Cassa Forense, Interior Ministry). Headless automation across legacy JSF/PrimeFaces endpoints. | Python stdlib core, XDG Base Directory, POSIX exit codes, 31 unit tests |
+| **[`cleanrepo`](https://github.com/jack89-ML/cleanrepo)** | Pre-publish OPSEC and anti-leak scanner. Detects cloud credentials, private keys, local paths, private networks, and high Shannon-entropy tokens with native Git staged/history inspection and ROT13 wordlists. | Zero dependencies, Git hook integration, SARIF 2.1.0 output · 38 unit tests |
+
+Combined suite coverage across the three toolchains: **160+ unit tests** — deterministic, fully offline, CI-verified on Python 3.10–3.12.
 
 ### Computational Social Science & Knowledge Engineering
 
