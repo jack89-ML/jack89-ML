@@ -1,6 +1,12 @@
+<div align="center">
+
 # Jacopo Peracchio
 
 **Open Source Intelligence Analyst · Computational Social Science · Hybrid Threats & Illicit Networks**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Open+Source+Analyst;Computational+Social+Science;Hybrid+Threats+%26+Organized+Crime;Agent-Based+Simulation+%26+Social+Theory;OSINT+%26+Data+Pipelines)](https://git.io/typing-svg)
+
+</div>
 
 I design deterministic data pipelines, computational social simulations, and forensic-grade software for intelligence and security research. My work bridges empirical sociological theory (structural holes, anomie, rationality regimes) with low-level software engineering: stdlib-first architectures, POSIX compliance, cryptographic chain of custody, and auditable data pipelines.
 
