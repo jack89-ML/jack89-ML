@@ -1,181 +1,87 @@
-<div align="center">
+# Jacopo Peracchio
 
-# Hi, I'm Jacopo Peracchio 👋
+**Open Source Intelligence Analyst · Computational Social Science · Hybrid Threats & Illicit Networks**
 
-**Open Source Analyst · Computational Social Science · Hybrid Threats & Organized Crime**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Open+Source+Analyst;Computational+Social+Science;Hybrid+Threats+%26+Organized+Crime;Agent-Based+Simulation+%26+Social+Theory;OSINT+%26+Data+Pipelines)](https://git.io/typing-svg)
-
-I build **data pipelines and computational models** for the social sciences —
-from electoral data to open-source intelligence — with research-grade standards:
-**reproducibility, audit trails, documentation**.
-
-[![Profile views](https://komarev.com/ghpvc/?username=jack89-ML&style=flat-square&color=00E5FF)](https://github.com/jack89-ML)
-[![GitHub followers](https://img.shields.io/github/followers/jack89-ML?style=flat-square&color=blueviolet&label=followers)](https://github.com/jack89-ML)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=)](https://github.com/jack89-ML)
-[![License MIT](https://img.shields.io/github/license/jack89-ML/tallyho?style=flat-square&color=green)](https://github.com/jack89-ML/tallyho)
-
-</div>
+I design deterministic data pipelines, computational social simulations, and forensic-grade software for intelligence and security research. My work bridges empirical sociological theory (structural holes, anomie, rationality regimes) with low-level software engineering: stdlib-first architectures, POSIX compliance, cryptographic chain of custody, and auditable data pipelines.
 
 ---
 
-## 🔭 Research Interests
+## 🔬 Research & Methodological Focus
 
-> **Hybrid threats · Organized crime · International money laundering · Terrorism & armed groups**
+My research operates at the intersection of computational sociology, intelligence analysis, and security studies:
 
-I work at the intersection of **computational social science** and **security studies**:
-
-- **Hybrid threats & disinformation** — influence operations, coordinated inauthentic behavior, astroturfing
-- **Organized crime & illicit networks** — social network analysis of criminal ecosystems, money laundering typologies
-- **Terrorism & armed groups** — mobilization dynamics, radicalization pathways, network structures
-- **Transnational communities** — diaspora networks as both risk and resilience factors
-
-## 🧠 Method: Social Theory × Multi-Agent Systems
-
-I model social phenomena using **explicit sociological theory** implemented through
-**LLM-powered multi-agent systems** — not black-box prediction. The framework draws
-on **Goffman** (identity performance), **Weber** (rationality regimes), **Merton**
-(anomie and adaptation), **Bourdieu** (field, habitus, capital), and **social
-network theory** (Granovetter, Burt — weak ties, structural holes, brokerage).
-
-Each agent carries a **theoretical role** (theory-driven behavioral rules) and the
-simulation is **calibrated against observed data** and validated with human
-expertise — design principles from my research proposal for a multi-agent
-simulation of influence operations.
-
-## 🛠️ What I Do
-
-- **Data engineering for social science** — extraction, cleaning, normalization and
-  analysis of public datasets (Italian electoral history, demographics, EU open data)
-- **Social Network Analysis** — academic co-authorship, influence networks, community
-  detection (networkx, Gephi, pyvis)
-- **OSINT & text analysis** — automated pipelines, compliant web collection, content
-  and sentiment analysis
-- **LLM multi-agent systems** — agents for research, monitoring and analysis, grounded
-  in sociological models
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,pandas,git,docker,linux,bash,githubactions,sqlite,vscode,markdown)](https://skillicons.dev)
-
-</div>
-
-## 📈 Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jack89-ML&theme=radical&hide_border=true)](https://github.com/jack89-ML)
-
-</div>
-
-> **Note:** the GitHub stats cards and trophy widgets (external Vercel services)
-> are temporarily suspended — they will be restored as soon as the services
-> come back online.
+* **Hybrid Threats & Information Operations**: Multi-agent simulation of coordinated inauthentic behavior (CIB), narrative laundering, astroturfing, and algorithmic amplification.
+* **Organized Crime & Illicit Economies**: Social Network Analysis (SNA) of criminal ecosystems, economic infiltration in local production districts, and corporate opacity.
+* **Radicalization & Armed Mobilization**: Network topologies, structural brokerage, and organizational resilience within clandestine groups.
+* **Theory-Driven Multi-Agent Modeling**: Simulating social dynamics using explicit formal frameworks (Goffman's identity performance, Weberian rationality regimes, Mertonian anomie, Bourdieu’s field/capital, and Granovetter/Burt network theory) rather than opaque black-box predictive models.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Engineering & Research Deliverables
 
-| Project | What it does | Status |
-|---|---|---|
-| [**TallyHo**](https://github.com/jack89-ML/tallyho) | Italian electoral time series 1946→today, municipality by municipality, from ministerial open data. Python CLI, CSV/JSON/XLSX/Parquet, 90+ tests, CI, Zenodo DOI | ⭐ main |
-| [**Arachne-Scholar**](https://github.com/jack89-ML/Arachne-Scholar) | Local-first knowledge graph engine for academic literature via SVO dependency parsing. Runs fully offline on your own hardware | active |
-| [**hybrid-kg-paper**](https://github.com/jack89-ML/hybrid-kg-paper) | Experiments on hybrid knowledge graphs (deterministic NLP + LLM) for scientific text. Reproducibility GED 0.0 | research |
+### Forensic Systems & Security Tooling (UNIX / POSIX Compliant)
 
-## 🎓 Education
+| Repository | Focus & Architecture | Standards & Ecosystem |
+| :--- | :--- | :--- |
+| **[`eml-forensics`](https://github.com/jack89-ML/eml-forensics)** | Deterministic e-Discovery & digital forensics engine for `.eml` corpora. MIME parsing, SHA-256 chain of custody, CAdES `.p7m` unwrapping, conversation DAG latency/blackout metrics, and orientation-aware OCR. | Python stdlib core, RFC 5322, OpenSSL, POSIX CLI, CI matrix (3.10–3.12) |
+| **[`albo-search`](https://github.com/jack89-ML/albo-search)** | Unified CLI search engine for Italian official professional registries (Lawyers, Accountants, Cassa Forense, Interior Ministry). Headless automation across legacy JSF/PrimeFaces endpoints. | Python stdlib core, XDG Base Directory, POSIX exit codes, 40+ unit tests |
+| **[`cleanrepo`](https://github.com/jack89-ML/cleanrepo)** | Pre-publish OPSEC and anti-leak scanner. Detects cloud credentials, private keys, local paths, private networks, and high Shannon-entropy tokens with native Git staged/history inspection and ROT13 wordlists. | Zero dependencies, Git hook integration, SARIF 2.1.0 output |
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="90"><strong>2023<br>→<br>2026</strong></td>
-<td width="20"></td>
-<td align="left" width="600">
-<strong>🎓 Università degli Studi di Torino</strong><br>
-<em>Laurea Magistrale in Sociologia e Ricerca Sociale — Sociology</em><br>
-<span>Sep 2023 – Mar 2026</span><br><br>
-🏅 <strong>Grade: 110/110 cum laude</strong><br>
-📝 <em>"Economic Networks and Illicit Practices in the Prato District: a Sociological
-Analysis of the Chinese Presence between Mafia Infiltration and Community
-Self-Regulation"</em><br>
-🛠️ Organizational skills · Information analysis · +3
-</td>
-</tr>
-</table>
-</div>
+### Computational Social Science & Knowledge Engineering
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="90"><strong>2025</strong></td>
-<td width="20"></td>
-<td align="left" width="600">
-<strong>🧭 Università degli Studi di Torino — <em>Future Scenarios</em> Lab</strong><br>
-<span>Apr 2025 – Jun 2025 · Certificate</span><br><br>
-Practical lab building frameworks for future-scenario analysis: identifying
-which factors/events may correlate and show causal links with a phenomenon in
-its future development.<br>
-🛠️ Information analysis · Risk management · +1
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="90"><strong>2025</strong></td>
-<td width="20"></td>
-<td align="left" width="600">
-<strong>🤖 Università degli Studi di Torino — <em>Algorithms & Society</em> Lab</strong><br>
-<span>Feb 2025 – Apr 2025 · Certificate</span>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="90"><strong>2019<br>→<br>2023</strong></td>
-<td width="20"></td>
-<td align="left" width="600">
-<strong>🏛️ Università degli Studi di Firenze</strong><br>
-<em>Scienze Politiche — Political Science</em><br>
-<span>Sep 2019 – May 2023</span><br><br>
-🏅 <strong>Grade: 103/110</strong><br>
-📝 <em>"New Technologies, Old Inequalities: a Critical Analysis of Digital Human
-Resources"</em>
-</td>
-</tr>
-</table>
-</div>
-
-## 💼 Experience
-
-- **MicroRack Systems** — founder & operator: data pipelines, research products,
-  multi-agent automation for analysis work
-
-## 🌍 Languages
-
-| Language | Level |
-|---|---|
-| 🇮🇹 **Italian** | Native |
-| 🇬🇧 **English** | B2 |
-| 🇪🇸 **Spanish** | B1 |
-| 🇨🇳 **Chinese** | A2 (active/passive) |
-
-## 📫 Contact
-
-- GitHub: [jack89-ML](https://github.com/jack89-ML)
-- LinkedIn: [jacopoperacchio](https://www.linkedin.com/in/jacopoperacchio/)
-- Email: [jperacchio8@gmail.com](mailto:jperacchio8@gmail.com)
+| Repository | Focus & Methodology | Technical Stack |
+| :--- | :--- | :--- |
+| **`TallyHo`** | Complete Italian municipal electoral time series (1946→present) parsed from ministerial open data with full audit trail and validation. | Python CLI, Parquet/CSV/JSON/XLSX, 90+ tests, Zenodo DOI |
+| **`Arachne-Scholar`** | Local-first, offline knowledge graph engine for academic literature using Subject-Verb-Object (SVO) dependency parsing. | Python, NetworkX, Local NLP |
+| **`hybrid-kg-paper`** | Experimental framework comparing deterministic NLP dependency graphs with LLM-extracted knowledge graphs across scientific corpora. | Python, Reproducibility GED 0.0 |
 
 ---
 
-<div align="center">
+## 🧰 Technical Stack
 
-*Research-grade standards: reproducible, documented, auditable.*
+```text
+Languages & Core    : Python (3.10+, Standard Library first), Bash / POSIX Shell, SQL, LaTeX
+Forensics & Data    : MIME RFC 5322, PKCS#7/CAdES, SHA-256 Custody, OpenSSL, Pandas, Polars, Parquet
+Network & Text      : NetworkX, Gephi, Graphviz (DOT), Spacy (SVO Dependency), Tesseract OCR
+Systems & Security  : Linux / POSIX environments, Git internals, CI/CD (GitHub Actions), SARIF, OPSEC
+Theory & Modeling   : Multi-Agent Systems, Computational Sociology, Scenario & Risk Analysis
+```
 
-</div>
+## 🎓 Education & Credentials
+
+**M.Sc. in Sociology and Social Research — Università degli Studi di Torino (2023 – 2026)**
+
+Final Grade: 110/110 cum laude
+
+Thesis: "Economic Networks and Illicit Practices in the Prato District: A Sociological Analysis of the Chinese Presence Between Mafia Infiltration and Community Self-Regulation"
+
+**Certificate: Future Scenarios Lab — Università degli Studi di Torino (2025)**
+
+Methodological frameworks for future-scenario forecasting, causal link identification, and risk analysis.
+
+**Certificate: Algorithms & Society Lab — Università degli Studi di Torino (2025)**
+
+**B.A. in Political Science — Università degli Studi di Firenze (2019 – 2023)**
+
+Final Grade: 103/110
+
+Thesis: "New Technologies, Old Inequalities: A Critical Analysis of Digital Human Resources"
+
+## 🌐 Languages & Communication
+
+- **Italian**: Native
+- **English**: Professional proficiency (B2/C1)
+- **Spanish**: Working proficiency (B1)
+- **Mandarin Chinese**: Elementary proficiency (A2 — active study for OSINT research)
+
+## 📫 Direct Contact & Profiles
+
+- **GitHub**: [@jack89-ML](https://github.com/jack89-ML)
+- **LinkedIn**: jacopoperacchio
+- **Email**: jperacchio8@gmail.com
+
+**Operating Unit**: MicroRack Systems — Computational pipelines, research automation & intelligence tooling.
+
+---
+
+All software and research published here adhere to research-grade standards: deterministic, documented, and fully auditable.
